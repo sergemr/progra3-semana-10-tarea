@@ -1,0 +1,21 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+h1 {
+    color: #813a3a;
+}
+
+h2 {
+    color: #b41111;
+}
+
+.mi-div {
+    background-color: #d3d3d4;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(42, 31, 107, 0.678);
+}
